@@ -53,12 +53,3 @@ The five bands implemented in the equalizer are:
 1. Connect the audio input signal to the equalizer.
 2. Adjust the gain knobs for each band to suit your preferences.
 3. Observe the output levels using the sound level indicators.
-
-
-## Acknowledgments
-
-This project uses **TL072 ICs** and Sallen-Key filter design principles to ensure high-quality audio output.
-
----
-
-Feel free to use or modify this template for your GitHub repository!
